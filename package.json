@@ -16,9 +16,17 @@
   },
   "dependencies": {
     "core-js": "^3.27.1",
-    "fraction": "^0.2.0",
-    "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
     "regenerator-runtime": "^0.13.11"
   },
+  "default": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bankyyy/forkify-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bankyyy/forkify-course/issues"
+  },
+  "homepage": "https://github.com/Bankyyy/forkify-course#readme",
   "default": "index.js"
 }
